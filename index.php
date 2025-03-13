@@ -40,7 +40,7 @@ curl_close($ch);
     <section>
         <img 
             src="<?= $data["poster_url"]; ?>" width= "250" alt="Poster de <?= $data["title"]; ?>"
-            style="border-radius: 16px; border: 3px solid #fff;">
+            style="border-radius: 16px; border: 3px solid red;">
     </section>
 
     <hgroup>
