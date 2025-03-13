@@ -39,7 +39,7 @@ curl_close($ch);
 <main>
     <section>
         <img 
-            src="<?= $data["poster_url"]; ?>" width= "250" alt="Poster de <?= $data["title"]; ?>"
+            src="<?= $data["poster_url"]; ?>" width= "300" alt="Poster de <?= $data["title"]; ?>"
             style="border-radius: 16px; border: 3px solid red;">
     </section>
 
